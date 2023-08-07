@@ -10,7 +10,7 @@ function Footer() {
 					rel="noopener noreferrer"
 				>
 					<img
-						src={require("./images/github-logo.png")}
+						src={require("../images/github-logo.png")}
 						alt="Github"
 						className="logo"
 					></img>
@@ -23,7 +23,7 @@ function Footer() {
 					rel="noopener noreferrer"
 				>
 					<img
-						src={require("./images/linkedin-logo.png")}
+						src={require("../images/linkedin-logo.png")}
 						alt="LinkedIn"
 						className="logo"
 					></img>
@@ -31,13 +31,13 @@ function Footer() {
 			</div>
 			<div>
 				<a
-					href="https://twitter.com/mister_garak"
+					href="https://www.threads.net/@the.original.chris.brown"
 					target="_blank"
 					rel="noopener noreferrer"
 				>
 					<img
-						src={require("./images/threads-logo.png")}
-						alt="Twitter"
+						src={require("../images/threads-logo.png")}
+						alt="Threads"
 						className="logo"
 					></img>
 				</a>
