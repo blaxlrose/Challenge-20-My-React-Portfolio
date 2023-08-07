@@ -335,11 +335,10 @@ textarea {
 .bottom-spacing {
 	margin-bottom: var(--spacing-five);
 }
-
-.card {
-	width: 25%;
-	text-align: center;
+.custom-card {
+  max-width: 500px; /* Adjust as needed */
 }
+
 
 .card-title {
 	font-size: 1.5rem;
